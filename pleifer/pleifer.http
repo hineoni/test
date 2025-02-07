@@ -1,0 +1,6 @@
+@pleifer_HostAddress = http://localhost:5277
+
+GET {{pleifer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
